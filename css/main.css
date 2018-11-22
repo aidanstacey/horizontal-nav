@@ -1,0 +1,30 @@
+html {
+  box-sizing: border-box;
+  background-color: #dbd6cf;
+  font-family: 'Bevan', sans-serif;
+  line-height: 1.5;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+html {
+  display: block;
+  font-family: sans-serif;
+}
+
+h1 {
+  display: block;
+  padding: .5em .75em;
+  margin: .3em;
+  background-color: #79756f;
+  border-color: #595652;
+}
+
+nav {
+  display: inline-block;
+  padding: .6em;
+  background-color: #f33;
+  margin: 0;
+}
